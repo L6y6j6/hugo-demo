@@ -1,0 +1,4 @@
+baseURL = 'https://l6y6j6.github.io/hugo-demo/'
+languageCode = 'en-us'
+title = 'My Hugo Site Demo'
+theme = 'PaperMod'
